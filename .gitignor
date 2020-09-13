@@ -1,0 +1,3 @@
+#Ignore db test files.
+db/test.*
+
